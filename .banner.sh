@@ -40,7 +40,7 @@ echo "│"
 echo "│"
 #echo "│"
 PUT 10 ${var4}
-echo -e "\e[32mBoot Script \e[33m2.0\e[0m"
+echo -e "\e[32mWellcome \e[33mZihad Boss\e[0m"
 PUT 12 0
 echo
 NORM
